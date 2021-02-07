@@ -1,3 +1,7 @@
+# Trello Clone
+
+This is a project from the [Fullstack React with TypeScript](https://www.newline.co/fullstack-react-with-typescript) book 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
